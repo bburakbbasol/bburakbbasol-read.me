@@ -3,7 +3,8 @@
 ## 🚀 About Me
 💻 I am a software developer specializing in C#, .NET, and ASP.NET.  
 🛠️ I have experience working with MS SQL and PostgreSQL databases, and I also have knowledge of frontend technologies like Bootstrap, HTML, and CSS.  
-🚀 Passionate about developing efficient and scalable applications.
+🎓 I have a background in Biomedical Engineering and have been working with .NET since 2022. My engineering background has greatly helped me transition into software development.  
+🚀 Currently, I am fully focused on software development and striving to grow in this field.
 
 ## 🛠 Languages and Tools
 - **🌐 Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
@@ -13,4 +14,3 @@
 ## 📫 Connect with Me
 - **🔗 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bburak-bbasol/)  
 - **📧 Email:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bburakbbasol@gmail.com)
-
