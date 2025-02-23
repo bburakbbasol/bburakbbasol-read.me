@@ -1,15 +1,15 @@
-# 👋 Merhaba, Ben Burak Başol
+# 👋 Hi there! I'm Burak Başol
 
-## 🚀 Hakkımda
-💻 C#, .NET ve ASP.NET teknolojilerine ilgi duyan bir geliştiriciyim.  
-🗄️ Veritabanı yönetiminde MS SQL ve PostgreSQL ile çalışıyorum.  
-🎨 Aynı zamanda frontend geliştirme süreçlerinde Bootstrap, HTML ve CSS kullanıyorum.
+## 🚀 About Me
+💻 I am a software developer specializing in C#, .NET, and ASP.NET.  
+🛠️ I have experience working with MS SQL and PostgreSQL databases, and I also have knowledge of frontend technologies like Bootstrap, HTML, and CSS.  
+🚀 Passionate about developing efficient and scalable applications.
 
-## 🛠 Teknolojiler
+## 🛠 Languages and Tools
+- **🌐 Frontend:** HTML5, CSS3, Bootstrap  
 - **🖥️ Backend:** C#, .NET, ASP.NET  
-- **🗂️ Veritabanı:** MS SQL, PostgreSQL  
-- **🎨 Frontend:** Bootstrap, HTML, CSS  
+- **🗂️ Databases:** MS SQL, PostgreSQL  
 
-## 📫 Bana Ulaşın
-- **🔗 LinkedIn:** [LinkedIn Profilim](https://www.linkedin.com/in/bburak-bbasol/)
-- **📧 E-posta:** bburakbbasol@gmail.com
+## 📫 Connect with Me
+- **🔗 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bburak-bbasol/)
+- **📧 Email:** bburakbbasol@gmail.com
